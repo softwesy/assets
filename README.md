@@ -1,1 +1,1 @@
-# Assets and images
+# Assets
