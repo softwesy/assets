@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "image": "humpty_dumpty.png",
+        "title": "Humpty Dumpty",
+        "audio": "humpty_dumpty.mp3",
+        "content": [
+            "Humpty Dumpty sat on a wall",
+            "Humpty Dumpty had a great fall.",
+            "All the king's horses and all the king's men",
+            "Couldn't put Humpty together again."
+        ]
+    },
+    {
+        "id": 2,
+        "image": "jack_and_jill.png",
+        "title": "Jack and Jill",
+        "audio": "jack_and_jill.mp3",
+        "content": [
+            "Jack and Jill went up the hill",
+            "To fetch a pail of water.",
+            "Jack fell down and broke his crown",
+            "And Jill came tumbling after.",
+            "Up Jack got and home did trot",
+            "As fast as he could caper",
+            "And went to bed and bound",
+            "His head with vinegar and brown paper."
+        ]
+    },
+    {
+        "id": 3,
+        "image": "baa_baa_black_sheep.png",
+        "title": "Baa Baa Black Sheep",
+        "audio": "baa_baa_black_sheep.mp3",
+        "content": [
+            "Baa, baa, black sheep,",
+            "Have you any wool?",
+            "Yes sir, yes sir,",
+            "Three bags full.",
+            "One for the master,",
+            "One for the dame,",
+            "And one for the little boy who lives down the lane."
+        ]
+    }
+]

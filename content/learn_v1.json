@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "title": "Fruits",
+        "image": "learn/fruits.png",
+        "path": "learn/fruits_v1.json"
+    }
+]
