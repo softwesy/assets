@@ -11,6 +11,20 @@
           "image": "images/learn/vegetables.png"
         },
         { 
+            "id": "baa-baa-black-sheep", 
+            "title": "Baa Baa Black",
+            "type": "rhymes",
+            "file": "content/rhymes/rhymes_en_v1.json",
+            "image": "images/rhymes/baa-baa-black-sheep.png"
+            },
+        {
+          "id": "morals-stories",
+          "title": "Morals Stories",
+          "type": "stories",
+          "file": "content/stories/morals_en_v1.json",
+          "image": "images/stories/morals.png"
+        },
+        { 
           "id": "fruits", 
           "title": "Fruits", 
           "type": "learn",
@@ -57,6 +71,153 @@
           "type": "learn",
           "file": "content/learn/colors_v1.json",
           "image": "images/learn/colors.png"
+        },
+        { 
+          "id": "shapes", 
+          "title": "Shapes", 
+          "type": "learn",
+          "file": "content/learn/shapes_v1.json",
+          "image": "images/learn/shapes.png"
+        },
+        { 
+          "id": "animals", 
+          "title": "Animals", 
+          "type": "learn",
+          "file": "content/learn/animals_v1.json",
+          "image": "images/learn/animals.png"
+        },
+        { 
+          "id": "birds", 
+          "title": "Birds", 
+          "type": "learn",
+          "file": "content/learn/birds_v1.json",
+          "image": "images/learn/birds.png"
+        },
+        { 
+          "id": "vehicles", 
+          "title": "Vehicles", 
+          "type": "learn",
+          "file": "content/learn/vehicles_v1.json",
+          "image": "images/learn/vehicles.png"
+        },
+        { 
+          "id": "body-parts", 
+          "title": "Body Parts", 
+          "type": "learn",
+          "file": "content/learn/body_parts_v1.json",
+          "image": "images/learn/body-parts.png"
+        },
+        { 
+          "id": "days", 
+          "title": "Days", 
+          "type": "learn",
+          "file": "content/learn/days_v1.json",
+          "image": "images/learn/days.png"
+        },
+        { 
+          "id": "months", 
+          "title": "Months", 
+          "type": "learn",
+          "file": "content/learn/months_v1.json",
+          "image": "images/learn/months.png"
+        },
+        { 
+          "id": "seasons", 
+          "title": "Seasons", 
+          "type": "learn",
+          "file": "content/learn/seasons_v1.json",
+          "image": "images/learn/seasons.png"
+        },
+        { 
+          "id": "time", 
+          "title": "Time", 
+          "type": "learn",
+          "file": "content/learn/time_v1.json",
+          "image": "images/learn/time.png"
+        },
+        { 
+          "id": "opposites", 
+          "title": "Opposites", 
+          "type": "learn",
+          "file": "content/learn/opposites_v1.json",
+          "image": "images/learn/opposites.png"
+        },
+        { 
+          "id": "emotions", 
+          "title": "Emotions", 
+          "type": "learn",
+          "file": "content/learn/emotions_v1.json",
+          "image": "images/learn/emotions.png"
+        },
+        { 
+          "id": "family", 
+          "title": "Family", 
+          "type": "learn",
+          "file": "content/learn/family_v1.json",
+          "image": "images/learn/family.png"
+        },
+        { 
+          "id": "food", 
+          "title": "Food", 
+          "type": "learn",
+          "file": "content/learn/food_v1.json",
+          "image": "images/learn/food.png"
+        },
+        { 
+          "id": "clothes", 
+          "title": "Clothes", 
+          "type": "learn",
+          "file": "content/learn/clothes_v1.json",
+          "image": "images/learn/clothes.png"
+        },
+        { 
+          "id": "toys", 
+          "title": "Toys", 
+          "type": "learn",
+          "file": "content/learn/toys_v1.json",
+          "image": "images/learn/toys.png"
+        },
+        { 
+          "id": "school", 
+          "title": "School", 
+          "type": "learn",
+          "file": "content/learn/school_v1.json",
+          "image": "images/learn/school.png"
+        },
+        { 
+          "id": "home", 
+          "title": "Home", 
+          "type": "learn",
+          "file": "content/learn/home_v1.json",
+          "image": "images/learn/home.png"
+        },
+        { 
+          "id": "nature", 
+          "title": "Nature", 
+          "type": "learn",
+          "file": "content/learn/nature_v1.json",
+          "image": "images/learn/nature.png"
+        },
+        { 
+          "id": "insects", 
+          "title": "Insects", 
+          "type": "learn",
+          "file": "content/learn/insects_v1.json",
+          "image": "images/learn/insects.png"
+        },
+        { 
+          "id": "flowers", 
+          "title": "Flowers", 
+          "type": "learn",
+          "file": "content/learn/flowers_v1.json",
+          "image": "images/learn/flowers.png"
+        },
+        { 
+          "id": "trees", 
+          "title": "Trees", 
+          "type": "learn",
+          "file": "content/learn/trees_v1.json",
+          "image": "images/learn/trees.png"
         }
         
       ]
