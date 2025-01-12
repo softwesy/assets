@@ -1,0 +1,23 @@
+[
+    {
+      "id": "moral-stories",
+      "title": "Moral Stories",
+      "type": "stories",
+      "description": "Learn valuable lessons through engaging stories",
+      "image": "images/stories/morals.png"
+    },
+    {
+      "id": "alphabet",
+      "title": "Learn Alphabet",
+      "type": "learn",
+      "description": "Fun way to master the ABC",
+      "image": "images/learn/alphabet.png"
+    },
+    {
+      "id": "puzzles",
+      "title": "Tricky Puzzles",
+      "type": "games",
+      "description": "Challenge your mind with fun puzzles",
+      "image": "images/games/puzzles.png"
+    }
+]
