@@ -1,0 +1,145 @@
+[
+    {
+      "id": "recommended",
+      "title": "Recommended",
+      "items": [
+        { 
+          "id": "vegetables", 
+          "title": "Vegetables", 
+          "type": "learn",
+          "file": "content/learn/vegetables_v1.json",
+          "image": "images/learn/vegetables.png"
+        },
+        { 
+          "id": "fruits", 
+          "title": "Fruits", 
+          "type": "learn",
+          "file": "content/learn/fruits_v1.json",
+          "image": "images/learn/fruits.png"
+        }
+      ]
+    },
+    {
+      "id": "learn",
+      "title": "Learn",
+      "items": [
+        { 
+          "id": "vegetables", 
+          "title": "Vegetables", 
+          "type": "learn",
+          "file": "content/learn/vegetables_v1.json",
+          "image": "images/learn/vegetables.png"
+        },
+        { 
+          "id": "alphabet", 
+          "title": "Alphabet", 
+          "type": "learn",
+          "file": "content/learn/alphabet_v1.json",
+          "image": "images/learn/alphabet.png"
+        },
+        { 
+          "id": "fruits", 
+          "title": "Fruits", 
+          "type": "learn",
+          "file": "content/learn/fruits_v1.json",
+          "image": "images/learn/fruits.png"
+        },
+        { 
+          "id": "numbers", 
+          "title": "Numbers", 
+          "type": "learn",
+          "file": "content/learn/numbers_v1.json",
+          "image": "images/learn/numbers.png"
+        },
+        { 
+          "id": "colors", 
+          "title": "Colors", 
+          "type": "learn",
+          "file": "content/learn/colors_v1.json",
+          "image": "images/learn/colors.png"
+        }
+        
+      ]
+    },
+    {
+      "id": "stories",
+      "title": "Stories",
+      "items": [
+        {
+            "id": "morals-stories",
+            "title": "Morals Stories",
+            "type": "stories",
+            "file": "content/stories/morals_en_v1.json",
+            "image": "images/stories/morals.png"
+        },
+        { 
+          "id": "panchatantra", 
+          "title": "Panchatantra", 
+          "type": "stories",
+          "file": "content/stories/panchatantra_en_v1.json",
+          "image": "images/stories/panchatantra.png"
+        },
+        { 
+          "id": "jungle-book", 
+          "title": "Jungle Book", 
+          "type": "stories",
+          "file": "content/stories/jungle_book_en_v1.json",
+          "image": "images/stories/jungle-book.png"
+        }
+      ]
+    },
+    {
+        "id": "rhymes",
+        "title": "Rhymes",
+        "items": [
+            { 
+            "id": "twinkle-twinkle", 
+            "title": "Twinkle Twinkle", 
+            "type": "rhymes",
+            "file": "content/rhymes/rhymes_en_v1.json",
+            "image": "images/rhymes/twinkle-twinkle.png"
+            },
+            { 
+            "id": "johny-johny", 
+            "title": "Johny Johny", 
+            "type": "rhymes",
+            "file": "content/rhymes/rhymes_en_v1.json",
+            "image": "images/rhymes/johny-johny.png"
+            },
+            { 
+            "id": "baa-baa-black-sheep", 
+            "title": "Baa Baa Black",
+            "type": "rhymes",
+            "file": "content/rhymes/rhymes_en_v1.json",
+            "image": "images/rhymes/baa-baa-black-sheep.png"
+            }
+        ]
+    },
+    {
+      "id": "games",
+      "title": "Games",
+      "items": [
+        { 
+          "id": "memory", 
+          "title": "Memory", 
+          "type": "games",
+          "file": "content/games/memory_v1.json",
+          "image": "images/games/memory.png"
+        },
+        { 
+          "id": "puzzle", 
+          "title": "Puzzle", 
+          "type": "games",
+          "file": "content/games/puzzle_v1.json",
+          "image": "images/games/puzzle.png"
+        },
+        { 
+          "id": "coloring", 
+          "title": "Coloring", 
+          "type": "games",
+          "file": "content/games/coloring_v1.json",
+          "image": "images/games/coloring.png"
+        }
+      ]
+    }
+  ]
