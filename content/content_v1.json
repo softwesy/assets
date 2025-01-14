@@ -258,21 +258,21 @@
             "title": "Twinkle Twinkle", 
             "type": "rhymes",
             "file": "content/rhymes/rhymes_en_v1.json",
-            "image": "images/rhymes/twinkle-twinkle.png"
+            "image": "images/rhymes/twinkle_twinkle.png"
             },
             { 
             "id": "johny-johny", 
             "title": "Johny Johny", 
             "type": "rhymes",
             "file": "content/rhymes/rhymes_en_v1.json",
-            "image": "images/rhymes/johny-johny.png"
+            "image": "images/rhymes/johny_johny.png"
             },
             { 
             "id": "baa-baa-black-sheep", 
             "title": "Baa Baa Black",
             "type": "rhymes",
             "file": "content/rhymes/rhymes_en_v1.json",
-            "image": "images/rhymes/baa-baa-black-sheep.png"
+            "image": "images/rhymes/baa_baa_black_sheep.png"
             }
         ]
     },
