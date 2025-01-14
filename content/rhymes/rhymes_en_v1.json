@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "humpty_dumpty.png",
+        "image": "images/rhymes/humpty_dumpty.png",
         "title": "Humpty Dumpty",
         "audio": "humpty_dumpty.mp3",
         "content": [
@@ -13,7 +13,7 @@
     },
     {
         "id": 2,
-        "image": "jack_and_jill.png",
+        "image": "images/rhymes/jack_and_jill.png",
         "title": "Jack and Jill",
         "audio": "jack_and_jill.mp3",
         "content": [
@@ -29,7 +29,7 @@
     },
     {
         "id": 3,
-        "image": "baa_baa_black_sheep.png",
+        "image": "images/rhymes/baa_baa_black_sheep.png",
         "title": "Baa Baa Black Sheep",
         "audio": "baa_baa_black_sheep.mp3",
         "content": [

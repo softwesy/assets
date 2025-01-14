@@ -2,47 +2,47 @@
     {
         "id": "1",
         "title": "The Golden Touch",
-        "image": "the_golden_touch.jpg",
+        "image": "images/stories/the_golden_touch.jpg",
         "story": [
             {
                 "page": 1,
                 "text": "Once upon a time, there was a king named Midas. He was very fond of gold. He had a lot of gold. He had a beautiful daughter named Mary. He loved her very much.",
-                "image": "the_golden_touch_1.jpg"
+                "image": "images/stories/the_golden_touch_1.jpg"
             },
             {
                 "page": 2,
                 "text": "One day, a fairy came to him. She said, \"You are a good king. I am pleased with you. I want to give you a gift.\" The king was very happy. He said, \"Thank you, dear fairy.\"",
-                "image": "the_golden_touch_2.jpg"
+                "image": "images/stories/the_golden_touch_2.jpg"
             },
             {
                 "page": 3,
                 "text": "The fairy said, \"You can ask for anything you want. I will give it to you.\" The king said, \"I want everything I touch to turn into gold.\" The fairy said, \"Be careful. Your wish will come true.\"",
-                "image": "the_golden_touch_3.jpg"
+                "image": "images/stories/the_golden_touch_3.jpg"
             },
             {
                 "page": 4,
                 "text": "The king was very happy. He touched a chair. The chair turned into gold. He touched a table. The table turned into gold. He touched a flower. The flower turned into gold. He touched a tree. The tree turned into gold.",
-                "image": "the_golden_touch_4.jpg"
+                "image": "images/stories/the_golden_touch_4.jpg"
             },
             {
                 "page": 5,
                 "text": "The king was very happy. He touched his daughter. His daughter turned into gold. The king was very sad. He cried and cried. He said, \"I am very foolish. I have lost my daughter.\"",
-                "image": "the_golden_touch_5.jpg"
+                "image": "images/stories/the_golden_touch_5.jpg"
             },
             {
                 "page": 6,
                 "text": "The fairy came again. She said, \"You are a foolish king. You have lost your daughter. You have lost everything.\" The king said, \"I am sorry. I have learned my lesson.\"",
-                "image": "the_golden_touch_6.jpg"
+                "image": "images/stories/the_golden_touch_6.jpg"
             },
             {
                 "page": 7,
                 "text": "The fairy said, \"I will give you your daughter back. You will not be greedy now.\" The king said, \"Thank you, dear fairy.\" The king was very happy. He got his daughter back.",
-                "image": "the_golden_touch_7.jpg"
+                "image": "images/stories/the_golden_touch_7.jpg"
             }
         ],
         "moral": {
             "text": "The moral of the story is that we should not be greedy. We should be happy with what we have and should not run after more and more wealth.",
-            "image": "the_golden_touch_moral.jpg"
+            "image": "images/stories/the_golden_touch_moral.jpg"
         }
     }
 ]

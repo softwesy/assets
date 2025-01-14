@@ -1,151 +1,151 @@
 [
     {
         "id": 1,
-        "image": "apple.png",
+        "image": "images/learn/apple.png",
         "title": "Apple",
         "description": "Apple is a fruit that is sweet and crunchy."
     },
     {
         "id": 2,
-        "image": "banana.png",
+        "image": "images/learn/banana.png",
         "title": "Banana",
         "description": "Banana is a soft, sweet fruit known for its high potassium content."
     },
     {
         "id": 3,
-        "image": "grape.png",
+        "image": "images/learn/grape.png",
         "title": "Grape",
         "description": "Grape is a small, juicy fruit that comes in clusters and can be eaten fresh or made into wine."
     },
     {
         "id": 4,
-        "image": "orange.png",
+        "image": "images/learn/orange.png",
         "title": "Orange",
         "description": "Orange is a citrus fruit known for its tangy taste and high vitamin C content."
     },
     {
         "id": 5,
-        "image": "strawberry.png",
+        "image": "images/learn/strawberry.png",
         "title": "Strawberry",
         "description": "Strawberry is a bright red, juicy fruit known for its sweet flavor and seeds on the outside."
     },
     {
         "id": 6,
-        "image": "watermelon.png",
+        "image": "images/learn/watermelon.png",
         "title": "Watermelon",
         "description": "Watermelon is a refreshing summer fruit with a sweet, watery flesh and green rind."
     },
     {
         "id": 7,
-        "image": "pineapple.png",
+        "image": "images/learn/pineapple.png",
         "title": "Pineapple",
         "description": "Pineapple is a tropical fruit with a spiky exterior and sweet, tangy yellow flesh."
     },
     {
         "id": 8,
-        "image": "mango.png",
+        "image": "images/learn/mango.png",
         "title": "Mango",
         "description": "Mango is a tropical fruit with juicy orange flesh and a distinct sweet flavor."
     },
     {
         "id": 9,
-        "image": "peach.png",
+        "image": "images/learn/peach.png",
         "title": "Peach",
         "description": "Peach is a soft, fuzzy fruit with sweet, juicy flesh and a central pit."
     },
     {
         "id": 10,
-        "image": "pear.png",
+        "image": "images/learn/pear.png",
         "title": "Pear",
         "description": "Pear is a juicy fruit with a soft texture and a mildly sweet flavor."
     },
     {
         "id": 11,
-        "image": "cherry.png",
+        "image": "images/learn/cherry.png",
         "title": "Cherry",
         "description": "Cherry is a small, round fruit with a sweet or tart flavor and a pit in the center."
     },
     {
         "id": 12,
-        "image": "kiwi.png",
+        "image": "images/learn/kiwi.png",
         "title": "Kiwi",
         "description": "Kiwi is a small, brown-skinned fruit with bright green flesh and a tangy taste."
     },
     {
         "id": 13,
-        "image": "plum.png",
+        "image": "images/learn/plum.png",
         "title": "Plum",
         "description": "Plum is a stone fruit with a smooth skin and sweet, juicy flesh."
     },
     {
         "id": 14,
-        "image": "blueberry.png",
+        "image": "images/learn/blueberry.png",
         "title": "Blueberry",
         "description": "Blueberry is a small, round berry known for its sweet taste and high antioxidant content."
     },
     {
         "id": 15,
-        "image": "raspberry.png",
+        "image": "images/learn/raspberry.png",
         "title": "Raspberry",
         "description": "Raspberry is a juicy, tart fruit that grows in clusters and is rich in fiber."
     },
     {
         "id": 16,
-        "image": "lemon.png",
+        "image": "images/learn/lemon.png",
         "title": "Lemon",
         "description": "Lemon is a sour citrus fruit often used for its juice and zest in cooking and beverages."
     },
     {
         "id": 17,
-        "image": "lime.png",
+        "image": "images/learn/lime.png",
         "title": "Lime",
         "description": "Lime is a small, green citrus fruit with a tangy flavor often used in drinks and dishes."
     },
     {
         "id": 18,
-        "image": "papaya.png",
+        "image": "images/learn/papaya.png",
         "title": "Papaya",
         "description": "Papaya is a tropical fruit with sweet orange flesh and black seeds in the center."
     },
     {
         "id": 19,
-        "image": "pomegranate.png",
+        "image": "images/learn/pomegranate.png",
         "title": "Pomegranate",
         "description": "Pomegranate is a fruit with a tough outer skin and juicy, red seeds inside."
     },
     {
         "id": 20,
-        "image": "coconut.png",
+        "image": "images/learn/coconut.png",
         "title": "Coconut",
         "description": "Coconut is a tropical fruit with a hard shell, white flesh, and refreshing water inside."
     },
     {
         "id": 21,
-        "image": "avocado.png",
+        "image": "images/learn/avocado.png",
         "title": "Avocado",
         "description": "Avocado is a creamy, nutrient-rich fruit often used in salads and spreads."
     },
     {
         "id": 22,
-        "image": "fig.png",
+        "image": "images/learn/fig.png",
         "title": "Fig",
         "description": "Fig is a sweet fruit with a soft, chewy texture and tiny seeds inside."
     },
     {
         "id": 23,
-        "image": "grapefruit.png",
+        "image": "images/learn/grapefruit.png",
         "title": "Grapefruit",
         "description": "Grapefruit is a large citrus fruit with a tangy flavor and juicy segments."
     },
     {
         "id": 24,
-        "image": "apricot.png",
+        "image": "images/learn/apricot.png",
         "title": "Apricot",
         "description": "Apricot is a small, orange fruit with a sweet, tart flavor and smooth skin."
     },
     {
         "id": 25,
-        "image": "guava.png",
+        "image": "images/learn/guava.png",
         "title": "Guava",
         "description": "Guava is a tropical fruit with a sweet, fragrant flavor and edible seeds."
     }
