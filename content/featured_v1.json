@@ -4,7 +4,7 @@
       "title": "Moral Stories",
       "type": "stories",
       "description": "Learn valuable lessons through engaging stories",
-      "image": "images/stories/morals.png"
+      "image": "images/stories/moral_stories.png"
     },
     {
       "id": "alphabet",
@@ -18,6 +18,6 @@
       "title": "Tricky Puzzles",
       "type": "games",
       "description": "Challenge your mind with fun puzzles",
-      "image": "images/games/puzzles.png"
+      "image": "images/games/puzzle-cat.png"
     }
 ]

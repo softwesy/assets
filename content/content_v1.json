@@ -22,7 +22,7 @@
           "title": "Morals Stories",
           "type": "stories",
           "file": "content/stories/morals_en_v1.json",
-          "image": "images/stories/morals.png"
+          "image": "images/stories/stories.png"
         },
         { 
           "id": "fruits", 
